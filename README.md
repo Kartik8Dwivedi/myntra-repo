@@ -5,3 +5,7 @@ The dataset for this problem statement is available at: https://www.kaggle.com/n
 
 Run following commands:
 1. pip install pandas scikit-learn tensorflow
+
+The results of model are as follows:
+- LSTM: the screenshot of the result is:
+![LSTM](./public/LSTM.png)
