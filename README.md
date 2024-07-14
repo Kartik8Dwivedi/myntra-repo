@@ -9,3 +9,5 @@ Run following commands:
 The results of model are as follows:
 - LSTM: the screenshot of the result is:
 ![LSTM](./public/LSTM.png)
+- GRU: the screenshot of the result is:
+![GRU](./public/GRU.png)
