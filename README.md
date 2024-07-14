@@ -2,3 +2,6 @@ Problem statement: Employ AI-driven recommendation system that analyze current f
 suggestions, enhancing customer engagement and conversion rates in the fast fashion segment.
 
 The dataset for this problem statement is available at: https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
+
+Run following commands:
+1. pip install pandas scikit-learn tensorflow
